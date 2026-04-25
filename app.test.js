@@ -1,5 +1,5 @@
 const request = require('supertest');
-const app = require('./app');
+const app = require('./todo-app/app');
 
 test('GET / returns running message', async () => {
   const res = await request(app).get('/');
