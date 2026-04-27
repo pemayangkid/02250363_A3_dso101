@@ -1,10 +1,10 @@
 # CI/CD Pipeline Project (DSO101)
 
 ## GitHub Repository
-[Paste your GitHub repo link here]
+https://github.com/pemayangkid/02250363_A3_dso101.git 
 
 ## Live Deployment (Render)
-[Paste your Render app link here]
+https://todo-app-93fy.onrender.com 
 
 ---
 
@@ -50,13 +50,11 @@ The system automates building, testing, containerization, and deployment using D
 ## Screenshots
 
 ### GitHub Actions Workflow
-
+![Successful GitHub Actions CI/CD pipeline run](screenshots/github-actions.png)
 
 ### DockerHub Image
-![alt text](image.png)
+![DockerHub repository showing latest pushed Docker image](screenshots/dockerhub.png)
 
 ### Render Deployment
-![alt text](image-1.png)
-![alt text](image-2.png)
-
-## 🧩 Project Structure
+![Render dashboard showing live deployment status](screenshots/render1.png)
+![Live application running on Render in browser](screenshots/render2.png)
