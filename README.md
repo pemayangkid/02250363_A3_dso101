@@ -6,8 +6,6 @@ https://github.com/pemayangkid/02250363_A3_dso101.git
 ## Live Deployment (Render)
 https://todo-app-93fy.onrender.com 
 
----
-
 ## Project Overview
 This project demonstrates a complete CI/CD pipeline using a Node.js REST API.  
 The system automates building, testing, containerization, and deployment using Docker, GitHub Actions, and Render.com.
