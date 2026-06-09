@@ -17,7 +17,6 @@ The system automates building, testing, containerization, and deployment using D
 - GitHub Actions
 - DockerHub
 - Render.com
-- Jest & Supertest (Testing)
 
 ## Steps Taken
 1. Created a Node.js REST API using Express  
